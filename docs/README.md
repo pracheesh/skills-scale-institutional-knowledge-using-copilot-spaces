@@ -33,4 +33,4 @@ Use the links below to navigate directly to any phase or topic in our process do
 
 ---
 
-*This README serves as the entry point for process knowledge in the OctoAcme Copilot Space. For questions or suggested improvements, open an issue using the [Add/Update Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template. Closes #2.*
+*This README serves as the entry point for process knowledge in the OctoAcme Copilot Space. For questions or suggested improvements, open an issue using the [Add/Update Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template.*
