@@ -3,6 +3,8 @@
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies.
 
+> **See also:** For detailed risk identification checklists, a Risk Register template, and escalation guidance, refer to [octoacme-risk-management-checklist.md](octoacme-risk-management-checklist.md). For communication plan templates and messaging standards, refer to [octoacme-communication-plan-template.md](octoacme-communication-plan-template.md).
+
 ## Risk Register
 Maintain a simple table with:
 - ID
